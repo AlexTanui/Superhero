@@ -6,7 +6,7 @@ This is a RESTful API that allows you to get information about superheroes and t
 
 ## Prerequisites
 
-- Ruby 2.6.6
+- Ruby 2.6.6+
 - Rails 6.0.3
 - SQLite 3
 
@@ -164,4 +164,4 @@ The code is released under the MIT License.
 
 ## Author:
 
-This API was created by Ernest Hanson.
+This API was created by Alex Tanui.
